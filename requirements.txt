@@ -1,0 +1,5 @@
+boto3
+requests
+pytest
+moto==4.1.13
+responses
